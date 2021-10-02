@@ -36,5 +36,5 @@ header .nv ul li a:hover{     background-color:yellowgreen; }
 .Project .Row{     display: flex;     align-items: center;     justify-content: center;     flex-wrap: wrap;     padding: 3rem 0; }
 .Project .Row .det{     flex: 1 1 48rem;     padding: 2rem 1rem;     padding-left: 8rem; }
 .Project .Row .det h3{     font-size: 2rem;     color: yellow;     padding: 1rem 0;     font-weight: normal; }
-.Project .Row .det h3 span{     color: #eee;     padding: 0. 5rem;
+.Project .Row .det h3 span{     color: white;     padding: 0. 5rem;
 }
